@@ -1,6 +1,6 @@
 # calculator
 it calculates
 
-# Authors
-DarknightDragon
-DumbInACan
+#### Authors
+- DarknightDragon
+- DumbInACan
